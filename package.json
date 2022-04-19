@@ -1,0 +1,23 @@
+{
+  "name": "fanvercel-bot",
+  "version": "1.0.0",
+  "description": "auto voice channel for private guild",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.30.0",
+    "discord.js": "latest",
+    "express": "^4.17.3",
+    "fs": "latest",
+    "moment": "^2.29.2",
+    "node-html-to-image": "^3.2.0",
+    "npm": "latest",
+    "react": "^17.0.2"
+  }
+}

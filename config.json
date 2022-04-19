@@ -1,0 +1,13 @@
+{
+    "PREFIX": "vc.",
+    "TRUE": "✅",
+    "FALSE": "❌",
+    "LOCKED": "🔒",
+    "TOKEN": "",
+    "AutoChannel": "",
+    "AutoCategory": "",
+    "GameChannel": "",
+    "GameCategory": "",
+    "PrivateChannel": "",
+    "PrivateCategory": ""
+}
